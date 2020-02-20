@@ -1,0 +1,112 @@
+.left
+{
+	float:left;
+	width: 15%;
+	margin-top: 25px;
+	color: #80007E;
+}
+#A
+{
+	border: solid;
+	background-color: WHITE;
+	margin: 15px;
+	border-width: 0px;
+	padding: 2px 0px 2px 10px;
+	width: 70%;
+	border-right: 20px solid #FF7F00;
+	margin-bottom: 10px;
+	margin-top: 10px;
+
+
+}
+
+#B
+{
+	border: solid;
+	background-color: WHITE;
+	margin: 15px;
+	border-width: 0px;
+	padding: 2px 0px 2px 10px;
+	width: 70%;
+	border-right: 20px solid #0000FF;
+	margin-bottom: 10px;
+	margin-top: 10px;
+
+
+}
+
+.right
+{
+	float: right;
+	width: 83%;
+}
+
+body
+{
+	background-color: #D8DA3D;
+}
+
+h2
+{
+	text-align: left;
+	font-family: sans-serif;
+	color: #80007E;
+	font-weight: bold;
+}
+
+p
+{
+	color: #80007E;
+}
+#p0
+{
+	border-top: dotted 2px #80007E;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+#p1
+{
+	border-style: dashed;
+	border-width: 1.5px;
+	padding: 10px 0px 10px 5px;
+	width: 70%;
+	height: 20%;
+	margin-top: 20px;
+	color: BLACK;
+
+}
+
+#p2
+{
+	border-style: dashed;
+	border-width: 1.5px;
+	border-color: #FF7F00;
+	width: 70%;
+	height: 20%;
+	text-align: right;
+	padding: 10px 5px 10px 0;
+	font-style: italic;
+	color: BLACK;
+}
+
+#p3
+{
+	border-style: dotted;
+	border-width: 1.5px;
+	border-color: #0000FF;
+	width: 70%;
+	height: 20%;
+	text-align: center;
+	padding: 10px 5px 10px 0;
+	font-weight: bold;
+	color: BLACK;
+}
+#p4
+{
+	font-family: serif;
+	font-style: italic;
+	color: #80007E;
+	font-weight: bold;
+}
+
